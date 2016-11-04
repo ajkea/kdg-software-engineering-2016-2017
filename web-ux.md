@@ -112,7 +112,7 @@
 
 - Van Dijck Hendrik
 	- e-mailadres: hendrik.vandijck@student.kdg.be
-	- github: https://github.com/ajkea/software-engineering.git
+	- github: https://github.com/ajkea/software-engineering-oplossingen.git
 
 - Van Loey Jonas
 	- e-mailadres: jonas.vanloey@student.kdg.be
